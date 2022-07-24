@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.ibb.co/xMz5n0G/giphy.webp"></p>
 <h1 align="center">Hi 👋, I'm Shodibek</h1>
 <h3 align="center">A passionate frontend developer & freelancer from Uzbekistan</h3>
 
