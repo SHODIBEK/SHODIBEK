@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://fb.com/shodik.musaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shodik.musaev" height="30" width="40" /></a>
 <a href="https://instagram.com/shodikmusaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shodikmusaev" height="30" width="40" /></a>
+<a href="https://t.me/shodibek_musaev" target="blank"><img align="center" src="https://i.ibb.co/PZMgCmQ/icons8-telegram-app-48.png" alt="shodikmusaev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
